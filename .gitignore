@@ -1,3 +1,10 @@
 */*/.terraform
+*/*/*/.terraform
+*/*/*/*/.terraform
+*/*/*/*/*/.terraform
 */*/*.tfstate
+*/*/*/*.tfstate
+*/*/*/*/*.tfstate
 */*/*.backup
+*/*/*/*.backup
+*/*/*/*/*.backup
